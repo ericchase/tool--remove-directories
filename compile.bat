@@ -1,3 +1,2 @@
-@echo off
-deno compile --allow-run --allow-read --allow-write main.js
+deno compile --allow-run --allow-read --allow-write main.ts
 pause
